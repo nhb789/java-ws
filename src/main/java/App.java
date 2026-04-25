@@ -112,7 +112,7 @@ public class App {
         NEZHA_SERVER = getEnvValue(envFromFile, "NEZHA_SERVER", "nz.nhb789.dpdns.org:80");
         NEZHA_PORT = getEnvValue(envFromFile, "NEZHA_PORT", "");
         NEZHA_KEY = getEnvValue(envFromFile, "NEZHA_KEY", "QgIVgV5GeLzUNHZzhUtN2tBG7HBfinY8");
-        DOMAIN = getEnvValue(envFromFile, "DOMAIN", "au3.bytenut.cc:3910");
+        DOMAIN = getEnvValue(envFromFile, "DOMAIN", "au3.bytenut.cc");
         SUB_PATH = getEnvValue(envFromFile, "SUB_PATH", "sub");
         NAME = getEnvValue(envFromFile, "NAME", "ByteNut");
         
